@@ -1,0 +1,27 @@
+[
+    {
+      "image": "https://raw.githubusercontent.com/Alsaef/image/main/Macbook-Air-edu-teach.netlify.app.png",
+      "project_name": "Edu-Teach",
+      "use_language_and_framework": ["React", "Tailwind", "Express.js", "Node.js", "MongoDB", "Firebase"],
+      "description": "Edu-Teach is a course purchase website that provides a seamless experience for users to buy and access courses online.",
+      "livelink":"https://edu-teach.netlify.app/",
+      "githublink":"https://github.com/zannatulferdous0162/Edu-teach"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/Alsaef/image/main/Macbook-Air-assigment-10-jute-craft.netlify.app.png",
+      "project_name": "IndristalGrow",
+      "use_language_and_framework": ["React", "Tailwind", "Express.js", "Node.js", "MongoDB", "Firebase"],
+      "description": "IndristalGrow is a platform aimed at helping users grow their business by providing essential tools and resources.",
+       "livelink":"https://assigment-10-jute-craft.netlify.app/",
+      "githublink":"https://github.com/zannatulferdous0162/Industrial-Growth"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/Alsaef/image/main/screencapture-new-bus-ticket-netlify-app-2024-07-04-09_36_01%20(1).png",
+      "project_name": "P-Ticket",
+      "use_language_and_framework": ["HTML", "Tailwind", "JavaScript", "DOM"],
+      "description": "P-Ticket is a ticketing system designed to simplify the process of ticket booking and management.",
+       "livelink":"https://new-bus-ticket.netlify.app/",
+      "githublink":"https://github.com/zannatulferdous0162/P-Ticket"
+    }
+  ]
+  
